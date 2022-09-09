@@ -5,6 +5,7 @@ parent: Lab Basics
 nav_order: 8
 ---
 
+**To be updated/deleted. The current content of this page is from PennLINC.**
 
 # Travel Guidelines
 

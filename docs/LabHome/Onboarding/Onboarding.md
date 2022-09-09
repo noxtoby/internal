@@ -6,7 +6,9 @@ has_children: true
 nav_order: 1
 ---
 
-# Welcome to PennLINC!
+# Welcome to UCL POND!
+
+**To be updated. The current content of this page is from PennLINC.**
 
 This page is geared for new lab members soon after they arrive. Below is a checklist of tasks required to get access to relevant systems.  Beyond this, the information on ths site (especially the pages in this "Lab Basics" section) is a good place to start for information on lab meetings, resources for new members, software and environments, and tutorials.
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Lab Basics
+title: POND fundamentals
 has_children: true
 has_toc: true
 nav_order: 2
 ---
 
-# Lab Basics
+# Swimming: POND fundamentals
 
-Here, you will find details regarding basic lab procedures at PennLINC
+Details regarding selected procedures in UCL POND.
 

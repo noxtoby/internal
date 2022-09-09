@@ -5,22 +5,24 @@ parent: Lab Basics
 nav_order: 5
 ---
 
-# Stages of a Project at PennLINC
+**To be updated. The current content of this page is from PennLINC.**
 
-There is no such thing as a "quick" scientific project. All projects take careful planning and follow a stereotyped process.  Understanding the life cycle of a project is critical for ensuring feasibility, avoiding suprises, and maximizing fun.  Given how long any project takes (approx ~1y minimum) it is essential that every project be carefully thought-out to justify the investment.  As ever, the most important question is "What is the question?"
+# Stages of a POND Project
+
+There is no such thing as a "quick" scientific project. All projects take careful planning and follow a stereotyped process.  Understanding the life cycle of a project is critical for ensuring feasibility, avoiding suprises, and maximizing fun. Given how long any project takes (approx ~1y minimum) it is essential that every project be carefully thought-out to justify the investment. As ever, the most important question is "What is the question?"
 
 
 ### 1)	Setup the infrastructure
 
 Each project in the lab has a well-defined infrastructure.  See relevant pages including
 
-a) [Project setup overview](https://pennlinc.github.io/docs/LabHome/ProjectSetup/)
+a) [Project setup overview](//docs/LabHome/ProjectSetup/)
 
-b) [Project setup on CUBIC](https://pennlinc.github.io/docs/cubic)
+b) [Project setup on a cluster](//docs/cluster)
 
-c) [Project reproducabiltiy guide](https://pennlinc.github.io/docs/LabHome/ReproSystem/)
+c) [Project reproducibiltiy guide](//docs/LabHome/ReproSystem/)
 
-d) [Guide to weekly project meetings](https://pennlinc.github.io/docs/LabHome/ProjectMeetings/)
+d) [Guide to weekly project meetings](//docs/LabHome/ProjectMeetings/)
 
 
 ### 2)	Define initial hypotheses

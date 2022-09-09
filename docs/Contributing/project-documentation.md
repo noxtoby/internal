@@ -9,13 +9,13 @@ nav_order: 2
 
 # Project Documentation with GitHub Pages
 
-In the event that you've completed and/or published a large project with PennLINC, you may want to write documentation for replication and easy sharing. The recommended way of doing this is to create a website for the Github repository of the project, using Github Pages.
+In the event that you've completed and/or published a large project with POND, you may want to write documentation for replication and easy sharing. The recommended way of doing this is to create a website for the Github repository of the project, using Github Pages.
 
 To write documentation for a finished project using GitHub Pages, begin by going to this tutorial [here](https://web.archive.org/web/20211113215309/https://www.thinkful.com/learn/a-guide-to-using-github-pages/start/). The steps outlined below will guide you through the same steps as in the link.
 
 > Note: The original tutorial was taken down, so the link directs you to an archived version -- thanks wayback machine!
 
-Each project page should be organized according to the [Project Template](https://github.com/PennLINC/PennLINC.github.io/blob/master/docs/Contributing/ProjectTemplate.md).
+Each project page should be organized according to the [Project Template](/docs/Contributing/ProjectTemplate).
 
 
 ## GitHub Pages tutorial

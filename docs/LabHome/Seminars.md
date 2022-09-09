@@ -5,11 +5,20 @@ parent: Lab Basics
 nav_order: 3
 ---
 
-# Seminars and Talks at Penn
+**To be updated.**
 
-There is a sometimes-belwidering array of relevant seminar series relevant to neuroscience, neuroimaging, psychiatry, and development.
+# Seminars and Talks relevant to POND
 
-We try to integrate these in a unified PennLINC google calender.  This is currently (Fall 2020) maintained by Sydney Covitz, please contact her for access to this calendar if you a member of PennLINC.  The calendar is also mirrored for public viewing on the pennlinc.io frontpage (scroll to the bottom). Talks are announced daily on the #PennLINC_talks channel on slack. 
+There is a sometimes-bewildering array of relevant seminar series relevant to POND.
+
+- CMIC/WEISS seminars: Wednesday 1300–1400, in person (either 90HH or CBH), and online (Zoom, via Moodle)
+- DRC Journal Club: hybrid 90HH/Teams
+- CMIC Interest Groups
+- Gatsby/CSML
+- others...
+
+
+**To be updated. Content below is from PennLINC.**
 
 Several of the main seminar series are listed below:
 

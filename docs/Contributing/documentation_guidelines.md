@@ -20,7 +20,7 @@ has_toc: true
 <div style="text-align: right"> - Damian Conway </div>
 ---
 
-All Penn LINC members are encouraged to document their software and analyses, in the form of code, prose, tutorials, or a mix of all 3. In this documentation about documentation, we're going to outline how you can start writing documentation for your work and contribute to this site.
+All POND members are encouraged to document their software and analyses, in the form of code, prose, tutorials, or a mix of all 3. In this documentation about documentation, originally developed by [PennLINC](https://PennLINC.github.io), we're going to outline how you can start writing documentation for your work and contribute to this site.
 
 # Getting Started
 
@@ -30,21 +30,21 @@ You will need a [Github account](https://github.com) to be able to contribute; t
 
 As a prerequisite to starting new documentation, you should have an idea of where this tutorial may fit in the context of the site. `just-the-docs`' structure allows us to create nested directories (folders) so we can organize our thoughts and documents efficiently. If this documentation fits under another topic, please create a new file in the appropriate folder. Otherwise, create a new folder for the topic.
 
-All folders should fall under `PennLINC.github.io/docs/`, and often a single markdown file is enough for some documentation — it would be the 'homepage' of that topic.
+All folders should fall under `internal/docs/`, and often a single markdown file is enough for some documentation — it would be the 'homepage' of that topic.
 
 For example, if I had a tutorial for my analysis pipeline named `foo`, I would create a topic directory and a markdown file (with the extension `.md`) in that directory to write the documentation:
 
-`PennLINC.github.io/docs/foo/foo_processing.md`
+`internal/docs/foo/foo_processing.md`
 
 In this case, you can create a new file right from the Github:
 
 <img src="/assets/images/adding_a_new_file.png" alt="">
 
-*Note: you don't have to explicitly create folders in the Github web interface; just type out your filename and path with backslashes and Github will automatically create the directory structure for you.*
+*Note: you don't have to explicitly create folders in the GitHub web interface; just type out your filename and path with backslashes and GitHub will automatically create the directory structure for you.*
 
 ## Scenario 2: Contributing to Existing Documentation
 
-If, on the other hand, you are contributing to existing documentation, then the process is simpler. All you will need to do is navigate to the file on Github, and click the edit button to begin editing:
+If, on the other hand, you are contributing to existing documentation, then the process is simpler. All you will need to do is navigate to the file on GitHub, and click the edit button to begin editing:
 
 <img src="/assets/images/editing_existing_file.png" alt="">
 
@@ -114,7 +114,7 @@ To do this, though, there is a little bit of overhead, mainly:
 First, clone this repository to your local machine:
 
 ```
-git clone https://github.com/PennLINC/PennLINC.github.io.git
+git clone https://github.com/ucl-pond/internal.git
 ```
 
 Next, make sure you have `Ruby` installed; the best way to check this is to do `which ruby`, and if there is no `ruby` program found, it's recommended you install it with `brew` (most Linux and MacOS machines already use `brew` as a package manager akin to `pip` or `npm`, see [this guide](https://brew.sh/) to find out how to install `brew` first if you don't have it).
@@ -124,7 +124,7 @@ To install ruby, just do:
 ```
 brew install ruby
 
-# YOU SHOULD PROBABLY ALSO ADD IT TO YOUR PATH LIKE SO:
+# YOU SHOULD PROBABLY ALSO ADD IT TO YOUR PATH, e.g., for bash:
 
 echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile
 ```
@@ -139,24 +139,24 @@ gem install --user-install bundler jekyll
 
 In this last step, you instruct `jekyll` to take all of the templates and files in the current directory and spin them up into a webpage, and `ruby` will serve it on your local machine. The instruction for this, from the root directory of the repo:
 ```
-cd PennLINC.github.io
+cd internal
 bundle exec jekyll serve
 ```
 
 If you see something like this:
 
 ```
-Configuration file: /Users/mac/BBL/PennLINC.github.io/_config.yml
-            Source: /Users/mac/BBL/PennLINC.github.io
-       Destination: /Users/mac/BBL/PennLINC.github.io/_site
+Configuration file: /Users/ponderer/internal/_config.yml
+            Source: /Users/ponderer/internal
+       Destination: /Users/ponderer/internal/_site
  Incremental build: disabled. Enable with --incremental
       Generating...
                     done in 4.378 seconds.
- Auto-regeneration: enabled for '/Users/mac/BBL/PennLINC.github.io'
+ Auto-regeneration: enabled for '/Users/ponderer/internal'
     Server address: http://127.0.0.1:4000//
   Server running... press ctrl-c to stop.
 ```
 
-You're in business! Just visit http://127.0.0.1:4000// in your web browser to view the local version of PennLINC.github.io!
+You're in business! Just visit http://127.0.0.1:4000// in your web browser to view the local version of internal!
 
-Now, you can edit files locally in `docs/`, and whenever you save the file, the local web page will update to reflect those changes! When you're done, hit CTRL-C to stop serving the site, and then commit and push your changes to Github to put them on the internet.
+Now, you can edit files locally in `docs/`, and whenever you save the file, the local web page will update to reflect those changes! When you're done, hit CTRL-C to stop serving the site, and then commit and push your changes to GitHub to put them on the internet.

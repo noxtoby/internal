@@ -5,7 +5,9 @@ parent: Lab Basics
 nav_order: 2
 ---
 
-# Project Meetings with Ted
+# Project Meetings with POND PIs
+
+**To be updated. The current content of this page is from PennLINC.**
 
 All PennLINC team members are expected to lead a scientific project.  
 

@@ -5,6 +5,9 @@ parent: Tutorials
 nav_order: 4
 ---
 
+**This tutorial is from PennLINC. Maybe remove.**
+
+
 | Title                                           | Author         | Replicator | Goal                          | Input Data   | Output                 |
 |-------------------------------------------------|----------------|------------|-------------------------------|--------------|------------------------|
 | Creating BIDS Events TSVs from ITC EPrime Files | Tinashe Tapera | TBD        | Convert EPrime data into BIDS | EPrime files | BIDS Valid Events TSVs |

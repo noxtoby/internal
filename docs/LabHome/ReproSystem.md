@@ -5,8 +5,9 @@ parent: Lab Basics
 nav_order: 6
 ---
 
+**To be updated. The current content of this page is from PennLINC.**
 
-# PennLINC Project Reproducibility Guide 
+# Project Reproducibility Guide 
 
 ### 1. Replication buddy. 
 

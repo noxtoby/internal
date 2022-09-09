@@ -5,6 +5,7 @@ parent: Tutorials
 nav_order: 2
 ---
 
+**This tutorial is from PennLINC. Maybe remove.**
 
 # Regional Quantification with NiLearn
 

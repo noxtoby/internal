@@ -5,6 +5,9 @@ parent: Tutorials
 nav_order: 3
 ---
 
+**This tutorial is from PennLINC. Maybe remove.**
+
+
 | Title | Author | Replicator | Goal | Input Data | Output |
 | ----- | ------ | ---------- | ---- | ---------- | ------ |
 | Curating ASL Data | Tinashe Tapera | TBD | Prepare ASL Data for ASLPrep | ASL DICOMs | BIDS Valid ASL Data |

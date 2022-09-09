@@ -5,6 +5,8 @@ parent: Lab Basics
 nav_order: 16
 ---
 
+**To be updated to point to UCL room booking procedures. The current content of this page is from PennLINC.**
+
 In this tutorial, you’ll learn how to schedule spaces for meetings. 
 
 # Step 1: Login to Scheduling & Event Services
